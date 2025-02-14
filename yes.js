@@ -11,10 +11,12 @@ document.addEventListener("DOMContentLoaded", function () {
         <div class="modal-content">
             <span class="close-button">&times;</span>
             <p class="modal-message">Te amo mucho! ❤️ Eres la persona más especial para mí!</p>
-            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI5ZjFxdWM1bmZuZWQ2cTlvbWNpMjNuaHNxN2pueXVoeWlvOGZ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKoWXm3okO1kgHC/giphy.gif" alt="Love GIF" class="modal-image">
-            <a href="./python/rexa.exe" download="rexa.exe" class="download-button">Download Surprise</a>
+            <img src="preda.png" alt="Love GIF" class="modal-image">
         </div>
     `;
+
+    //            <a href="./python/rexa.exe" download="rexa.exe" class="download-button">Download Surprise</a>
+
     document.body.appendChild(modal);
 
     // Seleccionar el botón de cerrar después de añadir el modal al DOM
